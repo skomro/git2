@@ -8,6 +8,7 @@
  */
 public class MyList {
 
+
 	String[] array;
 
 	public MyList() {
